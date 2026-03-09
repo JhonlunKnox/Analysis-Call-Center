@@ -39,13 +39,13 @@ El objetivo es descubrir patrones operativos reales: horas pico, tipos de caso m
 ## 📁 Estructura del proyecto
 
 ```
-callcenter-analysis/
+CALLCENTER/
 │
-├── data/
+├── Data/
 │   └── callcenter_data.csv       # Dataset (ver instrucciones abajo)
 │
 ├── notebooks/
-│   └── analysis.py               # Script principal de análisis
+│   └── Analysis.ipynb               # Script principal de análisis notebook
 │
 ├── outputs/
 │   ├── 01_volumen_por_hora.png
