@@ -1,0 +1,17 @@
+# Dataset (no subir al repo, es pesado)
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Entorno virtual
+venv/
+env/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
