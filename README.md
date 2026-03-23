@@ -74,13 +74,7 @@ cd Analysis-Call-Center
 pip install -r requirements.txt
 ```
 
-**3. Descarga el dataset**
-
-Ve a [Kaggle — Call Center Dataset](https://www.kaggle.com/datasets/mfaisalqureshi/call-center), descarga el CSV, renómbralo `callcenter_data.csv` y colócalo en la carpeta `data/`.
-
-> ⚠️ El dataset no está incluido en el repositorio por políticas de redistribución de Kaggle.
-
-**4. Corre el análisis**
+**3. Corre el análisis**
 ```bash
 cd notebooks
 python analysis.py
